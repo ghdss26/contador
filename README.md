@@ -16,7 +16,7 @@ e regras para tornar o botão desabilidado quando aparecer o número 20.
 
   ```bash 
   
-  # fazer um git clone do projeto pelo terminal ou baixar e obter via winrar  
+  $ fazer um git clone do projeto pelo terminal ou baixar e obter via winrar  
   
   $ Obter o Vscode, Android Studio ou intellij instalado na sua maquina
   
