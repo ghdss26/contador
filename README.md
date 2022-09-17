@@ -9,7 +9,8 @@ e regras para tornar o botão desabilidado quando aparecer o número 20.
 
 ## Tecnologia Utilizada 
 
--[Flutter](https://flutter.dev/) 
+-[Flutter](https://flutter.dev) 
+
 -[Dart](https://dart.dev/guides) 
 
 ## Baixar e visualizar o Projeto 
